@@ -1,0 +1,18 @@
+operating-systems-linux-project/
+│
+├── README.md
+├── module-2-filesystem/
+│   ├── answers.md
+│   └── screenshots/
+├── module-3-shell-scripts/
+│   ├── answers.md
+│   └── screenshots/
+├── module-4-users-groups/
+│   ├── answers.md
+│   └── screenshots/
+├── module-5-networking/
+│   ├── answers.md
+│   └── screenshots/
+└── module-6-system-monitoring/
+    ├── answers.md
+    └── screenshots/
